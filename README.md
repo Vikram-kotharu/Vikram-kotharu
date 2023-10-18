@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vikram-kotharu
 - 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...Redux
+- 🌱 I’m currently learning ...Next.js
 
 
 <!---
